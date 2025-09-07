@@ -23,14 +23,14 @@ The project demonstrates:
 
 ---
 
-## 📂 Project Structure
 heart_disease_prediction_ai_ml/
-│── app.py # Streamlit app
-│── model_Training.py # Model training script
-│── run_all.py # Shortcut script to run training + app
-│── heart.csv # Dataset
-│── models/ # Folder for saved models
-│── README.md # Project documentation
+│── app.py              # Streamlit app
+│── model_Training.py   # Model training script
+│── run_all.py          # Shortcut script to run training + app
+│── heart.csv           # Dataset
+│── models/             # Folder for saved models
+│── README.md           # Project documentation
+
 
 
 ---
