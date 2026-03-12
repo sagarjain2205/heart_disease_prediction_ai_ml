@@ -6,6 +6,12 @@ The application takes patient health parameters such as **age, blood pressure, c
 
 The trained models are integrated into an **interactive Streamlit dashboard** where users can enter patient data and receive predictions in real time.
 
+<p align="center">
+  <a href="https://heartdiseaseprediction-ibm.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20Live%20App-Streamlit-red?style=for-the-badge&logo=streamlit" />
+  </a>
+</p>
+
 ---
 
 # 🧠 Models Used
